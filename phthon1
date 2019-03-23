@@ -1,0 +1,2 @@
+# Hello World と入力してください
+print(9+3)
